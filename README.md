@@ -63,10 +63,10 @@ Wir sind **Abdi & Emin** - ein dynamisches Duo aus Berlin mit Leidenschaft für:
 
 | Projekt | Beschreibung | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **🔷 Emin Portfolio** | Portfolio Website für Cybersecurity & Software Development | React, GitHub Pages | [Repo](https://github.com/emami-claw/emin-portfolio) |
-| **🔒 SIEM Platform** | Security Information & Event Management mit Live-Dashboard | Node.js, React, MongoDB, WebSocket | [Repo](https://github.com/emami-claw/siem-platform) |
-| **📋 Kanban Board Pro** | Professional Project Management mit Drag & Drop | React, @dnd-kit, Team Management | [Repo](https://github.com/emami-claw/kanban-board-pro) |
-| **🔌 IoT Device Manager** | ESP32 Verwaltung mit OTA Updates & MQTT | Node.js, React, MQTT, WebSocket | [Repo](https://github.com/emami-claw/iot-device-manager) |
+| **🔷 Emin Portfolio** | Portfolio Website für Cybersecurity & Software Development | React, GitHub Pages | [Repo](https://github.com/eminSecurity/emin-portfolio) |
+| **🔒 SIEM Platform** | Security Information & Event Management mit Live-Dashboard | Node.js, React, MongoDB, WebSocket | [Repo](https://github.com/eminSecurity/siem-platform) |
+| **📋 Kanban Board Pro** | Professional Project Management mit Drag & Drop | React, @dnd-kit, Team Management | [Repo](https://github.com/eminSecurity/kanban-board-pro) |
+| **🔌 IoT Device Manager** | ESP32 Verwaltung mit OTA Updates & MQTT | Node.js, React, MQTT, WebSocket | [Repo](https://github.com/eminSecurity/iot-device-manager) |
 
 ### ⏳ In Planung
 
@@ -108,9 +108,9 @@ Wir sind **Abdi & Emin** - ein dynamisches Duo aus Berlin mit Leidenschaft für:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emami-claw&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eminSecurity&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emami-claw&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eminSecurity&layout=compact&theme=dark)
 
 ---
 
@@ -128,7 +128,7 @@ Wir arbeiten zusammen als gleichberechtigtes Team:
 
 - 📧 **Email:** info@emin-security.de
 - 🌐 **Standort:** Berlin, Deutschland
-- 💼 **GitHub:** [@emami-claw](https://github.com/emami-claw)
+- 💼 **GitHub:** [@eminSecurity](https://github.com/eminSecurity)
 
 ---
 
